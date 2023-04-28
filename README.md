@@ -1,2 +1,2 @@
 # Boca_de_Lobo
-Esta análise visa demonstrar as principais informações referentes às encomendas depositadas no equipamento "Boca de Lobo", instalado na estação do MetrôRio Estácio de Sá.
+This analysis aims to demonstrate the main information regarding the orders stored in the "Boca de Lobo" equipment, installed at the MetrôRio Estácio de Sá station.
